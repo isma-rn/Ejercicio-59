@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\bin\Debug\E59_CadenaNVeces.exe.config
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\bin\Debug\E59_CadenaNVeces.exe
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\bin\Debug\E59_CadenaNVeces.pdb
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\obj\Debug\E59_CadenaNVeces.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\obj\Debug\E59_CadenaNVeces.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\obj\Debug\E59_CadenaNVeces.exe
+C:\Users\Fam RN\source\reposS10\E59_CadenaNVeces\E59_CadenaNVeces\obj\Debug\E59_CadenaNVeces.pdb
